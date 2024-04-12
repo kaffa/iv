@@ -9,6 +9,13 @@ _drafts/
 .rvmrc
 .ruby-version
 .DS_Store
-/content.draft/
 dbconfig.py
 /node_modules/
+/coverage
+*.log
+*.tgz
+.idea
+.temp
+.vite_opt_cache
+cache
+temp
