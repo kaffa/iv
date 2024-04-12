@@ -1,0 +1,14 @@
+.sass-cache/
+_drafts/
+.vscode/
+*.swp
+*.scssc
+*.psd
+*.map
+*~
+.rvmrc
+.ruby-version
+.DS_Store
+/content.draft/
+dbconfig.py
+/node_modules/
